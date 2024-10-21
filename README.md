@@ -22,3 +22,10 @@ This is a simple Spring Boot application that performs CRUD operations on `User`
 git clone https://github.com/Prathamesh-Jagtap/SpringBootJUnitMockito.git
 cd SpringBootJUnitMockito
 ```
+
+# Build and Run the Project
+
+```bash
+mvn clean install
+mvn springboot:run
+```
